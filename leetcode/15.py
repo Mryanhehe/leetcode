@@ -27,4 +27,4 @@ class Solution:
 
 
 so = Solution()
-print(so.threeSum([-1,0,1,2,-1,-4]))
+print(so.threeSum([0,0,0]))
